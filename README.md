@@ -1,5 +1,5 @@
 # Py3D
-### Work-in-progress 3D environment built on Python
+### Work-in-progress 3D engine built on Python
 
 > [!NOTE]
 > Yeah I made it with AI deal with it
