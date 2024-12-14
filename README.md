@@ -4,6 +4,9 @@
 > [!NOTE]
 > Yeah I made it with AI deal with it
 
+![Py3D](https://github.com/user-attachments/assets/83805050-acbe-4acb-8619-f9d9d08020eb)
+> Screenshot above is an upscaled version I made in Figma!
+
 ## Controls
 > Movement
 - `W`: Move forward
